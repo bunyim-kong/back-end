@@ -1,3 +1,16 @@
+# Ignore everything
+*
+
+# Allow these files/folders
+!src/
+!src/**
+!public/
+!public/**
+!package.json
+
+# Allow gitignore itself
+!.gitignore
+
 ############################
 # OS X
 ############################
